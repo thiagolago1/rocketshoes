@@ -1,3 +1,3 @@
 # Rocketshoes
 
-> Repository for study whit Flux architecture
+> Repository for study Flux architecture
